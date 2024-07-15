@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pentagonos Estrellados", "Pentagonos Estrellados\Pentagonos Estrellados.csproj", "{B37274A1-5965-4449-9B9F-4215680A538D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B37274A1-5965-4449-9B9F-4215680A538D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B37274A1-5965-4449-9B9F-4215680A538D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B37274A1-5965-4449-9B9F-4215680A538D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B37274A1-5965-4449-9B9F-4215680A538D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {843F6DCE-E539-429F-B1E5-A3E84DB7BB07}
+	EndGlobalSection
+EndGlobal
